@@ -1,1 +1,3 @@
-# Colorize the character
+# Among Us character
+
+![screenshot](screenshot.png)
